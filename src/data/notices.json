@@ -1,0 +1,73 @@
+{
+    "notices": [
+        {
+            "id": "421298096782274560",
+            "buyerName": "四川仪表工业学校",
+            "issueTime": 1490329752000,
+            "districtName": "市级",
+            "title": "四川仪表工业学校学生宿舍3号楼改造结果公告",
+            "projectDirectoryName": "工程类",
+            "projectBudget": 294000,
+            "projectPurchaseWay": "询价采购",
+            "bidBeginTime": 1520549298600,
+            "packageNum": 1,
+            "hits": 10
+        },
+        {
+    
+            "id": "421285168997953536",
+            "buyerName": "重庆警察学院",
+            "issueTime": 1490326670000,
+            "districtName": "渝中区",
+            "title": "警院战术系购教学训练器材（16A5988）采购公告",
+            "projectDirectoryName": "教学训练器材",
+            "projectBudget": 140000,
+            "projectPurchaseWay": "询价采购",
+            "bidBeginTime": 1520949206520,
+            "packageNum": 2,
+            "hits": 10
+        },
+        {
+    
+            "id": "421285168997953536",
+            "buyerName": "重庆警察学院",
+            "issueTime": 1490426670000,
+            "districtName": "渝中区",
+            "title": "警院战术系购教学训练器材（16A5988）采购公告",
+            "projectDirectoryName": "教学训练器材",
+            "projectBudget": 140000,
+            "projectPurchaseWay": "公开招标",
+            "bidBeginTime": 1520650203652,
+            "packageNum": 2,
+            "hits": 10
+        },
+        {
+        
+            "id": "421281787524771840",
+            "buyerName": "重庆警察学院",
+            "issueTime": 1520549200000,
+            "districtName": "巴南区",
+            "title": "重庆警察学院网络巡检和网络优化服务（16C3398）采购公告",
+            "projectDirectoryName": "其他运行维护服务",
+            "projectBudget": 59000,
+            "projectPurchaseWay": "电子询价",
+            "bidBeginTime": 1520609209865,
+            "packageNum": 2,
+            "hits": 10
+        },
+        {
+            "id": "421278781681135616",
+            "buyerName": "四川外国语大学",
+            "issueTime": 1490325147000,
+            "districtName": "市级",
+            "title": "四川外国语大学商务英语学院综合实训系统采购公告",
+            "projectDirectoryName": "货物类",
+            "projectBudget": 148000,
+            "projectPurchaseWay": "竞争性谈判",
+            "bidBeginTime": 1520356209856,
+            "packageNum": 3,
+            "hits": 100
+        }
+    ],
+    "total": 399
+}
